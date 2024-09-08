@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.19.4
 MAINTAINER Rafael Römhild <rafael@roemhild.de>
 
 ENV VERSION 1.0.0rc6
